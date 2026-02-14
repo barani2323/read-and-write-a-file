@@ -1,0 +1,2 @@
+hello
+learning file handling in python
